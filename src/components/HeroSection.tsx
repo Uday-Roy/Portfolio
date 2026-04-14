@@ -84,7 +84,7 @@ const HeroSection = () => {
             <div className="relative w-64 h-64 lg:w-80 lg:h-80 animate-float">
               <div className="absolute inset-0 rounded-full bg-gradient-to-br from-primary/30 to-accent/30 blur-2xl" />
               <img
-                src="src/components/uday5.jpeg"
+                src="public/images/uday5.jpeg"
                 alt="Uday Roy"
                 className="relative w-full h-full rounded-full object-cover border-2 border-border"
               />
