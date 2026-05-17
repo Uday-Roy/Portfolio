@@ -5,7 +5,7 @@ const socials = [
   { icon: Github, href: "https://github.com/Uday-Roy", label: "GitHub" },
   { icon: Linkedin, href: "https://www.linkedin.com/in/udaykrroy/", label: "LinkedIn" },
   { icon: Instagram, href: "https://www.instagram.com/uday.kr.roy", label: "Instagram" },
-  { icon: Facebook, href: "https://facebook.com/udayroy", label: "Facebook" },
+  { icon: Facebook, href: "https://www.facebook.com/udayroy.udayroy.7792", label: "Facebook" },
   { icon: Twitter, href: "https://x.com/UdayR20448", label: "X (Twitter)" },
 ];
 
