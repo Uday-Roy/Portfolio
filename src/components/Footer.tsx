@@ -2,11 +2,11 @@ import { Github, Linkedin, Instagram, Facebook, Twitter, MessageCircle } from "l
 
 const socials = [
   { icon: MessageCircle, href: "https://wa.me/919142620172", label: "WhatsApp" },
-  { icon: Github, href: "https://github.com/udayroy", label: "GitHub" },
-  { icon: Linkedin, href: "https://linkedin.com/in/udayroy", label: "LinkedIn" },
-  { icon: Instagram, href: "https://instagram.com/udayroy", label: "Instagram" },
+  { icon: Github, href: "https://github.com/Uday-Roy", label: "GitHub" },
+  { icon: Linkedin, href: "https://www.linkedin.com/in/udaykrroy/", label: "LinkedIn" },
+  { icon: Instagram, href: "https://www.instagram.com/uday.kr.roy", label: "Instagram" },
   { icon: Facebook, href: "https://facebook.com/udayroy", label: "Facebook" },
-  { icon: Twitter, href: "https://x.com/udayroy", label: "X (Twitter)" },
+  { icon: Twitter, href: "https://x.com/UdayR20448", label: "X (Twitter)" },
 ];
 
 const quickLinks = [
